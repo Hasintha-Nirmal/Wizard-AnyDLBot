@@ -1,0 +1,10 @@
+aiohttp
+hachoir
+Pillow
+https://github.com/pyrogram/pyrogram/archive/v0.17.0.zip
+requests
+tgcrypto
+youtube-dl
+pydrive
+pySmartDL
+
